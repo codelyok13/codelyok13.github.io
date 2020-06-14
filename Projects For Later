@@ -4,6 +4,10 @@ Make Personal Website/Skeleton Website
 Make A Payment Processor Site to Replace Patreon
 Multi-Threaded Encryption/Decryption 
 Make an application for auto manga translation/manga translator for old manga by getting the big translators and make them legit.
+  download an image from a link as the first argument and save it to the location provided it the 2nd argument
+  get a list of images from a manga website based on the first argument and store in a list
+  remove all unnecesary images from the html to only get good images
+  
 Automatic File Syncer
 Anime Video Downloader using headless Browser
 NES-OS Specified Operating System

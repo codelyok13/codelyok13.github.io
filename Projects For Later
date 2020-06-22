@@ -7,6 +7,7 @@ Make A Payment Processor Site to Replace Patreon
 Multi-Threaded Encryption/Decryption 
 
 Create an console command that downloads youtube videos using the url, save to an output location if given and output their file location
+  Extract from Youtube Video It name for title, store in the description of the mp4 the youtube description and set author to youtuber name
 Create an console command that uses ffmpeg to split a multimedia file into seperate components based on a list of of times and names(if given)
 
 Make an application for auto manga translation/manga translator for old manga by getting the big translators and make them legit(USE OCR)

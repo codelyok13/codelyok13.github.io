@@ -1,6 +1,5 @@
 Not Finished:
   Sec Project
-  HHA WEBSite
   Make Personal Website/Skeleton Website
   Make a Product Selling Website
   Make A Payment Processor Site to Replace Patreon
@@ -10,6 +9,9 @@ Not Finished:
     Extract from Youtube Video It name for title, store in the description of the mp4 the youtube description and set author to youtuber name
   Create an console command that uses ffmpeg to split a multimedia file into seperate components based on a list of of times and names(if given)
 
+  Write a choose your own adventure visual novel for andriod/ios that has ads embeded into background image or above a below the image for residuals income
+  Write books on topic that I am knowledgable about like Programming Lessons
+  Home Health Care Website
   Make an application for auto manga translation/manga translator for old manga by getting the big translators and make them legit(USE OCR)
     download an image from a link as the first argument and save it to the location provided it the 2nd argument
     get a list of images from a manga website based on the first argument and store in a list

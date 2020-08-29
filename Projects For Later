@@ -1,18 +1,21 @@
 Not Finished:
-  Create a search engine
-    Get Info From URL
-      Get Name from headers
-      Get URL from URL
-      Store everylast word and seperate lexical groups.
-    Convert Stored information into a database
-    Create a front page that will search the database for information
-   
-   Create an Application to add metadata to files automatically from websites
-    Use the name of the file or folder to help the file find information
-    Add data to files metadata
-    Make cmd line tool then use Front End to add UI to it
- _______________________________________________________________________________________________________________________________________________________________________
-  Perform Each Step as it's own seperate project
+
+    Perform Each Step as it's own seperate project
+    Convert a GreyScale BitMap Image into an SVG
+      Before anything else do the below to see if they work
+        try Anime4K or WAIFU2X to see if they work
+        smoothen and scaling algorithms
+      Detect Edge (Use one of these methods)
+        Make all non black pixels white and use edge detection
+        Use a filter to check each pixel and if the enough pixels around it are diffrent write black pixel to new MAT
+        Use Canny Edge Detection
+      Approxamite the line using the points to create an image
+      Extract Image texture from with each enclosed edge using contuours
+      Smoothen the texture and upscale (implementation ideas below)
+         If the colors in the contours aren't that diffrent average the colors and insert into the polygonal space within the svg space
+         Else, Find the pattern in the image and svg the pattern or smoothen and upscale a pattern, try to just repeat the pattern to save resouces
+      Add Texture/Color back to image edges
+      Get Full Image Back  Perform Each Step as it's own seperate project
     Convert a GreyScale BitMap Image into an SVG
       Before anything else do the below to see if they work
         try Anime4K or WAIFU2X to see if they work
@@ -28,8 +31,13 @@ Not Finished:
          Else, Find the pattern in the image and svg the pattern or smoothen and upscale a pattern, try to just repeat the pattern to save resouces
       Add Texture/Color back to image edges
       Get Full Image Back
-       
-  
+   
+   Create an Application to add metadata to files automatically from websites
+    Use the name of the file or folder to help the file find information
+    Add data to files metadata
+    Make cmd line tool then use Front End to add UI to it
+ _______________________________________________________________________________________________________________________________________________________________________
+
   Make a Product Selling Website
   
   Make A Payment Processor Site to Replace Patreon
@@ -57,9 +65,7 @@ Not Finished:
   Anime Video Downloader using headless Browser
   
   Chip8-OS Specified Operating System - Operating System that only runs CHIP8 Programs
-  
-  Using Paper RPG Game Engine or GODOT to make a demo of the first area of MOTHER/EARTHBOUDE_ZERO
-  
+    
   Create an Operating System Desktop Environment that doesn't have a start menu
     It only has shortcuts, an application bar, (a desktop or terminal), a wheel like seiken dentsu 3 where you can combo into an application.
     https://www.youtube.com/watch?v=AItTqnTsVjA <= Inspiration
@@ -67,6 +73,15 @@ Not Finished:
   Build a brand
   
     Make Personal Website/Skeleton Website use bootstrp to keep it scalable
+    
+ Create a search engine
+    Get Info From URL
+      Get Name from headers
+      Get URL from URL
+      Store everylast word and seperate lexical groups.
+    Convert Stored information into a database
+    Create a front page that will search the database for information
+    
 Finished:
   Multi-Threaded Encryption/Decryption(Completed)
   

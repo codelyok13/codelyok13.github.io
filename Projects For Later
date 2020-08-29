@@ -1,36 +1,4 @@
 Not Finished:
-
-    Perform Each Step as it's own seperate project
-    Convert a GreyScale BitMap Image into an SVG
-      Before anything else do the below to see if they work
-        try Anime4K or WAIFU2X to see if they work
-        smoothen and scaling algorithms
-      Detect Edge (Use one of these methods)
-        Make all non black pixels white and use edge detection
-        Use a filter to check each pixel and if the enough pixels around it are diffrent write black pixel to new MAT
-        Use Canny Edge Detection
-      Approxamite the line using the points to create an image
-      Extract Image texture from with each enclosed edge using contuours
-      Smoothen the texture and upscale (implementation ideas below)
-         If the colors in the contours aren't that diffrent average the colors and insert into the polygonal space within the svg space
-         Else, Find the pattern in the image and svg the pattern or smoothen and upscale a pattern, try to just repeat the pattern to save resouces
-      Add Texture/Color back to image edges
-      Get Full Image Back  Perform Each Step as it's own seperate project
-    Convert a GreyScale BitMap Image into an SVG
-      Before anything else do the below to see if they work
-        try Anime4K or WAIFU2X to see if they work
-        smoothen and scaling algorithms
-      Detect Edge (Use one of these methods)
-        Make all non black pixels white and use edge detection
-        Use a filter to check each pixel and if the enough pixels around it are diffrent write black pixel to new MAT
-        Use Canny Edge Detection
-      Approxamite the line using the points to create an image
-      Extract Image texture from with each enclosed edge using contuours
-      Smoothen the texture and upscale (implementation ideas below)
-         If the colors in the contours aren't that diffrent average the colors and insert into the polygonal space within the svg space
-         Else, Find the pattern in the image and svg the pattern or smoothen and upscale a pattern, try to just repeat the pattern to save resouces
-      Add Texture/Color back to image edges
-      Get Full Image Back
    
    Create an Application to add metadata to files automatically from websites
     Use the name of the file or folder to help the file find information
